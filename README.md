@@ -22,7 +22,7 @@ Um aplicativo desenvolvido durante o curso de Desenvolvimento Flutter Mobile, co
 
 ## Funcionalidades
 
-- Cadastro de usuários
+- Comparação de preços de combustíveis.
 
 ## Instalação
 
