@@ -30,11 +30,11 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/clone-olx.git
+    git clone https://github.com/rafaelleonan/app-flutter-alcool-ou-gasolina.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
-    cd clone-olx
+    cd app-flutter-alcool-ou-gasolina 
     ```
 3. Instale as dependências:
     ```sh
