@@ -54,5 +54,5 @@ Siga os passos abaixo para rodar o projeto localmente:
   <img src="assets/images/simulator_screenshot_iphone13_ios16_4_home.png" alt="Home" width="250"/>
 </p>
 
-## Video
-![DEMONSTRAÇÃO](assets/videos/simulator_screen_recording_iphone13_ios16_4.mp4)
+## Video Demonstração
+[Assista o vídeo](https://ucd90df16b142a4f99316da56b87.dl.dropboxusercontent.com/cd/0/inline/CXz7KHTbX3S_TNEUjpleUpzmT3TuGWDTj_DL3LzezwApTjhgLDklgzZPNFSVvQzumzT_0LDnMfPUZyByFeumAC8qm_0v5cCpd3xfqokhkGgviB00-KgKw6dOFqFK1jOcQZDmzG6xZHurldNNWr7LcyMn/file#) 
